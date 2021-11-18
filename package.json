@@ -1,0 +1,14 @@
+{
+  "name": "notion-winston",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/electrochemistry04/notion-winston.git",
+  "author": "electrochemistry04 <electrochemistry04@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^0.4.8",
+    "dotenv": "^10.0.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}
